@@ -180,6 +180,3 @@ Anderson Nunes
 Engenhario de Software + Professor
 
 
-
-
-# school-ai-platform
